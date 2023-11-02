@@ -1,0 +1,13 @@
+.toolbar {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.filterButton {
+    margin: 1em 0.5em;
+    border: 1px solid rgb(153, 153, 153);
+    background-color: rgb(250, 250, 250);
+    padding: 0.3em 1em;
+    cursor: pointer;
+}
